@@ -14,7 +14,7 @@ Notas, Notebooks y Material para un curso de Modelado Matemático
 | 6. Series | --- | --- |
 | 7. Raíces de ecuaciones | --- | --- |
 | 8. Diferenciación numérica | --- | --- |
-| 9. Integración numérica | --- | 20210920 |
+| 9. Integración numérica | --- | 2021.09.20 |
 | 10. ODE's con problemas de valor inicial | --- | --- |
 | 11. ODE`s con problemas de frontera | --- | --- |
 | 12. Transformadas de Fourier y otras | --- | --- |
