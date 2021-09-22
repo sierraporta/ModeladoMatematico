@@ -4,8 +4,6 @@
 Notas, Notebooks y Material para un curso de Modelado Matemático
 
 ## Temario:
-
-| --- | --- | --- |
 | Tema | Contenido | Observaciones |
 | --- | --- | --- |
 | 1. Representanción de números, Errores | --- | --- |
