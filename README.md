@@ -22,4 +22,3 @@ Notas, Notebooks y Material para un curso de Modelado Matemático
 | 14. Pragramación Orientada a Objetos | --- | --- | --- |
 | 15. Paraleliza tu código Python | --- | --- | --- |
 | 16. Visualización y gráficas | --- | --- | --- |
-| --- | --- | --- | --- |
