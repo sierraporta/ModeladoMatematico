@@ -1,5 +1,6 @@
 Algunos videos de nuestras clases
 
+| --- | --- | --- |
 | Tópico | Fecha | Enlace |
 | Integración Numérica | 20210920 | https://drive.google.com/file/d/11__4u6TItnD9ZOrDyzDJCvW3zQhU1LfX/view?usp=sharing |
 | Integración Numérica (discusión_problemas) | 20210924 https://drive.google.com/file/d/1gFFlfaoxbJxeyy2jEhIb2GZiw--FF8Ys/view?usp=sharing |
