@@ -13,7 +13,7 @@ Notas, Notebooks y Material para un curso de Modelado Matemático
 | 5. Interpolación | --- | --- | --- |
 | 6. Series | --- | --- | --- |
 | 7. Raíces de ecuaciones | --- | --- | --- |
-| 8. Diferenciación numérica | --- | --- | --- |
+| 8. Diferenciación numérica | --- | 2021.09.27 | [Diferenciacion_numerica](/Notebooks/Diferenciacion_numerica.ipynb) |
 | 9. Integración numérica | --- | 2021.09.20 | [Integracion_numerica](/Notebooks/Integracion_numerica.ipynb) |
 | 10. ODE's con problemas de valor inicial | --- | --- | --- |
 | 11. ODE`s con problemas de frontera | --- | --- | --- |
