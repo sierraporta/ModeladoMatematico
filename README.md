@@ -15,7 +15,7 @@ Notas, Notebooks y Material para un curso de Modelado Matemático
 | 7. Raíces de ecuaciones | --- | --- | --- |
 | 8. Diferenciación numérica | --- | 2021.09.27 | [Diferenciacion_numerica](/Notebooks/Diferenciacion_numerica.ipynb) |
 | 9. Integración numérica | --- | 2021.09.20 | [Integracion_numerica](/Notebooks/Integracion_numerica.ipynb) |
-| 10. ODE's con problemas de valor inicial | --- | 20211004 | [ODEs_inicial_value_problems](/Notebooks/ODEs_inicial_value_problems.ipynb) |
+| 10. ODE's con problemas de valor inicial | --- | 2021.10.04 | [ODEs_inicial_value_problems](/Notebooks/ODEs_inicial_value_problems.ipynb) |
 | 11. ODE`s con problemas de frontera | --- | --- | --- |
 | 12. Transformadas de Fourier y otras | --- | --- | --- |
 | 13. Least Square metodos y Ajuste de curvas | --- | --- | --- |
